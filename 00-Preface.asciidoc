@@ -1,6 +1,7 @@
 this is a test
-Add a joke. Funny? I thought so
+Add a joke. Funny? Not so funny
 Here's a better joke...who cares?
+Add a joke. Funny? Not so funny
 made some edits from hell-world-redux
 
 ## Chapter one
